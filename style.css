@@ -434,54 +434,54 @@ body {font-family: Verdana, sans-serif;}
   margin-bottom: 20px;
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 600px) {
   .container .Sidepanel {
     display: none;
   }
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 600px) {
   .main-skills .card .budget .budget img {
     width: 400px;
    
   }
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 600px) {
   .main-skills .card .budget{
     width: 400px;
    
  
   }
 }
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 600px) {
   .card .news {
     width: 350px;
     
   
   }
 }
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 600px) {
   .card .dashboard-section {
     width: 400px;
     
   }
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 600px) {
   .main-skills .card .skills-dashboard{
     width: 400px;
     
   }
 }
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 600px) {
   .main-course .course-box .bye{
     display: none;
     
   }
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 600px) {
   .course-box {
     height: fit-content ;
     width: 400px;
@@ -489,7 +489,7 @@ body {font-family: Verdana, sans-serif;}
   }
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 600px) {
   .course-box .course .box {
     height: 300px;
     width: 400px;
