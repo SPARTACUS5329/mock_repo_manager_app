@@ -442,14 +442,14 @@ body {font-family: Verdana, sans-serif;}
 
 @media only screen and (max-width: 480px) {
   .main-skills .card .budget .budget img {
-    width: 350px;
+    width: 400px;
    
   }
 }
 
 @media only screen and (max-width: 480px) {
   .main-skills .card .budget{
-    width: 350px;
+    width: 400px;
    
  
   }
@@ -463,14 +463,14 @@ body {font-family: Verdana, sans-serif;}
 }
 @media only screen and (max-width: 480px) {
   .card .dashboard-section {
-    width: 350px;
+    width: 400px;
     
   }
 }
 
 @media only screen and (max-width: 480px) {
   .main-skills .card .skills-dashboard{
-    width: 350px;
+    width: 400px;
     
   }
 }
@@ -484,7 +484,7 @@ body {font-family: Verdana, sans-serif;}
 @media only screen and (max-width: 480px) {
   .course-box {
     height: fit-content ;
-    width: 350px;
+    width: 400px;
     
   }
 }
@@ -492,6 +492,6 @@ body {font-family: Verdana, sans-serif;}
 @media only screen and (max-width: 480px) {
   .course-box .course .box {
     height: 300px;
-    width: 350px;
+    width: 400px;
   }
 }
